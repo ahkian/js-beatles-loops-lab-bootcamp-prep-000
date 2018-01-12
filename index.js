@@ -10,7 +10,7 @@ function johnLennonFacts(facts){
   var n = 0
   lennonFactsArray = []
   while(n < facts.length){
-    lennonFactsArray.push()
+    lennonFactsArray.push(facts[n] + "!!!")
     n++
   }
   return lennonFactsArray
